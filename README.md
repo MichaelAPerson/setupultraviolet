@@ -7,11 +7,9 @@ curl -fsSL https://raw.githubusercontent.com/MichaelAPerson/setupultraviolet/mai
 then run 
 
 ```
-chmod +x setup.sh
-```
+chmod +x setup.sh```
 
 Then lastly
 
 ```
-./setup.sh
-```
+./setup.sh```
