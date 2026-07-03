@@ -1,12 +1,12 @@
 first run 
 
 ```
-curl -fsSL https://raw.githubusercontent.com/MichaelAPerson/setupultraviolet/main/setup.sh | bash
-```
+curl -fsSL https://raw.githubusercontent.com/MichaelAPerson/setupultraviolet/main/setup.sh -o setup.sh```
 
 
 then run 
 
 ```
-./setup-ultraviolet.sh
+chmod +x setup.sh
+./setup.sh
 ```
