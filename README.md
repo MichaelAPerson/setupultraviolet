@@ -8,5 +8,8 @@ then run
 
 ```
 chmod +x setup.sh
+```
+
+```
 ./setup.sh
 ```
