@@ -10,6 +10,8 @@ then run
 chmod +x setup.sh
 ```
 
+Then lastly
+
 ```
 ./setup.sh
 ```
